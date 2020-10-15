@@ -1,0 +1,65 @@
+G:\proje kardani\kargah_e_ghalam_zani\kargah_e_ghalam_zani\bin\Debug\kargah_e_ghalam_zani.exe.config
+G:\proje kardani\kargah_e_ghalam_zani\kargah_e_ghalam_zani\bin\Debug\kargah_e_ghalam_zani.exe
+G:\proje kardani\kargah_e_ghalam_zani\kargah_e_ghalam_zani\bin\Debug\kargah_e_ghalam_zani.pdb
+G:\proje kardani\kargah_e_ghalam_zani\kargah_e_ghalam_zani\obj\Debug\kargah_e_ghalam_zani.csprojResolveAssemblyReference.cache
+G:\proje kardani\kargah_e_ghalam_zani\kargah_e_ghalam_zani\obj\Debug\kargah_e_ghalam_zani.Form1.resources
+G:\proje kardani\kargah_e_ghalam_zani\kargah_e_ghalam_zani\obj\Debug\kargah_e_ghalam_zani.Properties.Resources.resources
+G:\proje kardani\kargah_e_ghalam_zani\kargah_e_ghalam_zani\obj\Debug\kargah_e_ghalam_zani.csproj.GenerateResource.Cache
+G:\proje kardani\kargah_e_ghalam_zani\kargah_e_ghalam_zani\obj\Debug\kargah_e_ghalam_zani.exe
+G:\proje kardani\kargah_e_ghalam_zani\kargah_e_ghalam_zani\obj\Debug\kargah_e_ghalam_zani.pdb
+G:\proje kardani\kargah_e_ghalam_zani\kargah_e_ghalam_zani\obj\Debug\kargah_e_ghalam_zani.register_kargar.resources
+G:\proje kardani\kargah_e_ghalam_zani\kargah_e_ghalam_zani\obj\Debug\kargah_e_ghalam_zani.register_badahkari.resources
+G:\proje kardani\kargah_e_ghalam_zani\kargah_e_ghalam_zani\obj\Debug\kargah_e_ghalam_zani.register_kar.resources
+G:\proje kardani\kargah_e_ghalam_zani\kargah_e_ghalam_zani\obj\Debug\kargah_e_ghalam_zani.register_padash.resources
+G:\proje kardani\kargah_e_ghalam_zani\kargah_e_ghalam_zani\obj\Debug\kargah_e_ghalam_zani.register_rizkarkerd.resources
+G:\proje kardani\kargah_e_ghalam_zani\kargah_e_ghalam_zani\obj\Debug\kargah_e_ghalam_zani.register_sefaresh.resources
+G:\proje kardani\kargah_e_ghalam_zani\kargah_e_ghalam_zani\bin\Debug\PopupControl.xml
+G:\proje kardani\kargah_e_ghalam_zani\kargah_e_ghalam_zani\obj\Debug\kargah_e_ghalam_zani.login.resources
+G:\proje kardani\kargah_e_ghalam_zani\kargah_e_ghalam_zani\bin\Debug\ghalamzani.mdf
+G:\proje kardani\kargah_e_ghalam_zani\kargah_e_ghalam_zani\bin\Debug\ghalamzani_log.ldf
+G:\proje kardani\kargah_e_ghalam_zani\kargah_e_ghalam_zani\obj\Debug\kargah_e_ghalam_zani.users.resources
+G:\proje kardani\kargah_e_ghalam_zani\kargah_e_ghalam_zani\bin\Debug\kargah_e_ghalam_zani.exe.manifest
+G:\proje kardani\kargah_e_ghalam_zani\kargah_e_ghalam_zani\bin\Debug\kargah_e_ghalam_zani.application
+G:\proje kardani\kargah_e_ghalam_zani\kargah_e_ghalam_zani\obj\Debug\kargah_e_ghalam_zani.exe.manifest
+G:\proje kardani\kargah_e_ghalam_zani\kargah_e_ghalam_zani\obj\Debug\kargah_e_ghalam_zani.application
+C:\Users\mohamad namazi\Desktop\proje kardani\kargah_e_ghalam_zani\kargah_e_ghalam_zani\obj\Debug\kargah_e_ghalam_zani.csprojAssemblyReference.cache
+C:\Users\mohamad namazi\Desktop\proje kardani\kargah_e_ghalam_zani\kargah_e_ghalam_zani\obj\Debug\kargah_e_ghalam_zani.Form1.resources
+C:\Users\mohamad namazi\Desktop\proje kardani\kargah_e_ghalam_zani\kargah_e_ghalam_zani\obj\Debug\kargah_e_ghalam_zani.login.resources
+C:\Users\mohamad namazi\Desktop\proje kardani\kargah_e_ghalam_zani\kargah_e_ghalam_zani\obj\Debug\kargah_e_ghalam_zani.Properties.Resources.resources
+C:\Users\mohamad namazi\Desktop\proje kardani\kargah_e_ghalam_zani\kargah_e_ghalam_zani\obj\Debug\kargah_e_ghalam_zani.register_badahkari.resources
+C:\Users\mohamad namazi\Desktop\proje kardani\kargah_e_ghalam_zani\kargah_e_ghalam_zani\obj\Debug\kargah_e_ghalam_zani.register_kar.resources
+C:\Users\mohamad namazi\Desktop\proje kardani\kargah_e_ghalam_zani\kargah_e_ghalam_zani\obj\Debug\kargah_e_ghalam_zani.register_kargar.resources
+C:\Users\mohamad namazi\Desktop\proje kardani\kargah_e_ghalam_zani\kargah_e_ghalam_zani\obj\Debug\kargah_e_ghalam_zani.register_padash.resources
+C:\Users\mohamad namazi\Desktop\proje kardani\kargah_e_ghalam_zani\kargah_e_ghalam_zani\obj\Debug\kargah_e_ghalam_zani.register_rizkarkerd.resources
+C:\Users\mohamad namazi\Desktop\proje kardani\kargah_e_ghalam_zani\kargah_e_ghalam_zani\obj\Debug\kargah_e_ghalam_zani.register_sefaresh.resources
+C:\Users\mohamad namazi\Desktop\proje kardani\kargah_e_ghalam_zani\kargah_e_ghalam_zani\obj\Debug\kargah_e_ghalam_zani.users.resources
+C:\Users\mohamad namazi\Desktop\proje kardani\kargah_e_ghalam_zani\kargah_e_ghalam_zani\obj\Debug\kargah_e_ghalam_zani.csproj.GenerateResource.cache
+C:\Users\mohamad namazi\Desktop\proje kardani\kargah_e_ghalam_zani\kargah_e_ghalam_zani\obj\Debug\kargah_e_ghalam_zani.csproj.CoreCompileInputs.cache
+C:\Users\mohamad namazi\Desktop\proje kardani\kargah_e_ghalam_zani\kargah_e_ghalam_zani\obj\Debug\kargah_e_ghalam_zani.exe
+C:\Users\mohamad namazi\Desktop\proje kardani\kargah_e_ghalam_zani\kargah_e_ghalam_zani\obj\Debug\kargah_e_ghalam_zani.pdb
+F:\oldest projects c#\kargaheghalamzani\kargah_e_ghalam_zani\obj\Debug\kargah_e_ghalam_zani.csprojAssemblyReference.cache
+F:\oldest projects c#\kargaheghalamzani\kargah_e_ghalam_zani\obj\Debug\kargah_e_ghalam_zani.Form1.resources
+F:\oldest projects c#\kargaheghalamzani\kargah_e_ghalam_zani\obj\Debug\kargah_e_ghalam_zani.login.resources
+F:\oldest projects c#\kargaheghalamzani\kargah_e_ghalam_zani\obj\Debug\kargah_e_ghalam_zani.Properties.Resources.resources
+F:\oldest projects c#\kargaheghalamzani\kargah_e_ghalam_zani\obj\Debug\kargah_e_ghalam_zani.register_badahkari.resources
+F:\oldest projects c#\kargaheghalamzani\kargah_e_ghalam_zani\obj\Debug\kargah_e_ghalam_zani.register_kar.resources
+F:\oldest projects c#\kargaheghalamzani\kargah_e_ghalam_zani\obj\Debug\kargah_e_ghalam_zani.register_kargar.resources
+F:\oldest projects c#\kargaheghalamzani\kargah_e_ghalam_zani\obj\Debug\kargah_e_ghalam_zani.register_padash.resources
+F:\oldest projects c#\kargaheghalamzani\kargah_e_ghalam_zani\obj\Debug\kargah_e_ghalam_zani.register_rizkarkerd.resources
+F:\oldest projects c#\kargaheghalamzani\kargah_e_ghalam_zani\obj\Debug\kargah_e_ghalam_zani.register_sefaresh.resources
+F:\oldest projects c#\kargaheghalamzani\kargah_e_ghalam_zani\obj\Debug\kargah_e_ghalam_zani.users.resources
+F:\oldest projects c#\kargaheghalamzani\kargah_e_ghalam_zani\obj\Debug\kargah_e_ghalam_zani.csproj.GenerateResource.cache
+F:\oldest projects c#\kargaheghalamzani\kargah_e_ghalam_zani\obj\Debug\kargah_e_ghalam_zani.csproj.CoreCompileInputs.cache
+F:\oldest projects c#\kargaheghalamzani\kargah_e_ghalam_zani\obj\Debug\kargah_e_ghalam_zani.exe
+F:\oldest projects c#\kargaheghalamzani\kargah_e_ghalam_zani\obj\Debug\kargah_e_ghalam_zani.pdb
+F:\oldest projects c#\kargaheghalamzani\kargah_e_ghalam_zani\bin\Debug\ghalamzani.mdf
+F:\oldest projects c#\kargaheghalamzani\kargah_e_ghalam_zani\bin\Debug\ghalamzani_log.ldf
+F:\oldest projects c#\kargaheghalamzani\kargah_e_ghalam_zani\bin\Debug\kargah_e_ghalam_zani.exe.config
+F:\oldest projects c#\kargaheghalamzani\kargah_e_ghalam_zani\bin\Debug\kargah_e_ghalam_zani.exe.manifest
+F:\oldest projects c#\kargaheghalamzani\kargah_e_ghalam_zani\bin\Debug\kargah_e_ghalam_zani.application
+F:\oldest projects c#\kargaheghalamzani\kargah_e_ghalam_zani\bin\Debug\kargah_e_ghalam_zani.exe
+F:\oldest projects c#\kargaheghalamzani\kargah_e_ghalam_zani\bin\Debug\kargah_e_ghalam_zani.pdb
+F:\oldest projects c#\kargaheghalamzani\kargah_e_ghalam_zani\bin\Debug\PopupControl.xml
+F:\oldest projects c#\kargaheghalamzani\kargah_e_ghalam_zani\obj\Debug\kargah_e_ghalam_zani.exe.manifest
+F:\oldest projects c#\kargaheghalamzani\kargah_e_ghalam_zani\obj\Debug\kargah_e_ghalam_zani.application
+F:\oldest projects c#\kargaheghalamzani\kargah_e_ghalam_zani\obj\Debug\kargah_e_ghalam_zani.csproj.CopyComplete
